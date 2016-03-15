@@ -1,0 +1,12 @@
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\bin\Debug\Dond.Models.dll.config
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\bin\Debug\Dond.Models.dll
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\bin\Debug\Dond.Models.pdb
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\bin\Debug\EntityFramework.dll
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\bin\Debug\EntityFramework.xml
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\obj\Debug\Dond.Models.csprojResolveAssemblyReference.cache
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\obj\Debug\Dond.Models.dll
+C:\Users\onurkeskin\Desktop\DondIsland1\DondIsland\Dond.Models\obj\Debug\Dond.Models.pdb
